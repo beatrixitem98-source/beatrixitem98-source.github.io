@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://beatrixitem98-source.github.io/sitemap.xml
